@@ -1,6 +1,6 @@
 name: system_setting_objc
 description: Flutter plugin for jumping to system settings.
-version: 0.1.0
+version: 1.0.0
 author: Benjamin Meudre <bmeudre@gmail.com>
 homepage: https://github.com/bmeudre/system_setting_objc
 
